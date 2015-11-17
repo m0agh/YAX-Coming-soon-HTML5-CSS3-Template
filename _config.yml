@@ -1,14 +1,35 @@
 # Site wide configuration
 
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale:
-url:
+title: "Your Awesome Site"
+description: "A Coming Soon Template"
+#if you modify locale please have a look at _data/messages.yml too
+locale: en
+#for meta name="author" :
+author: 
+
+#Target date in UTC / GMT
+countdown:
+  theme: red
+  year: 2020
+  month: 1
+  day: 1
+  hour: 0
+  minute: 0
+
+# Site owner
+owner:
+  name:
+  email:
+  twitter:
+  google-plus:
+  instagramm:
+  #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
+  aboutlink:
+    url:
+    caption:
+
 
 # Jekyll configuration
-
 sass:
   sass_dir: _sass
   style: compressed
@@ -16,21 +37,6 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-#gems:
-#  - jekyll-sitemap
-
-
-# Site owner
-owner:
-  name:
-  email:
-  twitter:
-  google:
-    ad-client:
-    ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
