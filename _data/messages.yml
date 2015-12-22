@@ -27,9 +27,14 @@ locales:
   de_DE:
     <<: *DEFAULT_DE     # use German translation for de_DE
     
-  # French translation (TODO)
+  # French translation
   # -------------------     
   fr: &DEFAULT_FR
-    <<: *DEFAULT_EN      # load English values as default
+    #<<: *DEFAULT_EN      # load English values as default
+   Days: "Jours"
+   Hours: "Heures"
+   Minutes: "Minutes"
+   Seconds: "Secondes"
+   Learn_More: "En savoir plus"
   fr_FR:
     <<: *DEFAULT_FR
