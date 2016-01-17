@@ -30,7 +30,7 @@ locales:
   # French translation
   # -------------------     
   fr: &DEFAULT_FR
-    #<<: *DEFAULT_EN      # load English values as default
+   <<: *DEFAULT_EN      # load English values as default
    Days: "Jours"
    Hours: "Heures"
    Minutes: "Minutes"
@@ -38,3 +38,25 @@ locales:
    Learn_More: "En savoir plus"
   fr_FR:
     <<: *DEFAULT_FR
+
+  # Spanish translation (TODO)
+  # -------------------     
+  es: &DEFAULT_ES
+    <<: *DEFAULT_EN      # load English values as default --> values, that are not listed below will get the english translation
+
+
+  # Other translations (TODO)
+  # -------------------     
+  # To add an other translation:
+  # * add a section similary to the ones above
+  # * provide the translated values
+  # Beware of the spaces!
+  # You can support country-specific locales by adding an other section (for instance de_DE for Germany) 
+  # and loading the corresponding DEFAULT_XX entries
+  #
+  # Example:
+  #
+  # # XX translation
+  # # -------------------     
+  # xx: &DEFAULT_XX
+  #   <<: *DEFAULT_EN      # load English values as default --> values, that are not listed below will get the english translation
