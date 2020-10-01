@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet);
 *,
 *:after,
 *::before {
@@ -9,7 +9,7 @@
 body {
     background: white;
     color: black;
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     max-width: 100%;
 }
 
