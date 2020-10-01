@@ -1,4 +1,4 @@
-# YAX-Coming-soon-HTML5-CSS3-Template
+# YAX-Coming-soon-HTML5-CSS3-Template An Amazing Template
 free Bootstrap HTML5 CSS3 Responsive Coming soon website template
 
 Designed by : Ilya B. <br />
