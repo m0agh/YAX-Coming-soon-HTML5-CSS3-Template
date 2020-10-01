@@ -1,5 +1,5 @@
 # YAX-Coming-soon-HTML5-CSS3-Template
-free Bootstrap HTML5 CSS3 Responsive Coming soon website template
+free Bootstrap HTML5 CSS3 Responsive Coming soon website template This website is going to be amazing. It will be fun.
 
 Designed by : Ilya B. <br />
 url : https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template <br />
