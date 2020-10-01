@@ -17,7 +17,7 @@ body {
     overflow: hidden;
     /* we don't want the pseudo-elements sticking out */
     
-    max-width: 960px;
+    max-width: 980px;
 }
 
 .container svg {
@@ -27,7 +27,7 @@ body {
 section {
     position: relative;
     background: #2980b9;
-    color: #000;
+    color: #101010;
     text-align: center;
 }
 /*** Individual section styles and separators ***/
@@ -59,19 +59,19 @@ header h2 {
     color: white;
     text-transform: uppercase;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 38px;
     text-shadow: 0px 2px 1px rgba(0, 0, 0, 1);
 }
 
 header p {
     font-family: 'Open Sans';
-    font-size: 18px;
+    font-size: 20px;
     text-transform: capitalize;
     color: white;
 }
 
 .color {
-    background-color: #f64747
+    background-color: #f64748
 }
 
 .ss-style-doublediagonal {
