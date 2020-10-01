@@ -59,7 +59,7 @@ header h2 {
     color: white;
     text-transform: uppercase;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 38px;
     text-shadow: 0px 2px 1px rgba(0, 0, 0, 1);
 }
 
@@ -71,7 +71,7 @@ header p {
 }
 
 .color {
-    background-color: #f64747
+    background-color: #f64748
 }
 
 .ss-style-doublediagonal {
