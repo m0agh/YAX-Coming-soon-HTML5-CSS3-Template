@@ -45,7 +45,7 @@ header section {
 }
 
 header h1 {
-    margin-bottom: 0px;
+    margin-bottom: 0.5px;
 }
 
 header i.fa {
@@ -77,7 +77,7 @@ header p {
 .ss-style-doublediagonal {
     z-index: 1;
     padding-top: 2em;
-    background: white;
+    background: offwhite;
 }
 
 .ss-style-doublediagonal::before,
@@ -87,7 +87,7 @@ header p {
     z-index: -1;
     width: 150%;
     height: 75%;
-    background: white;
+    background: #F5F5F5;
     -webkit-transform: rotate(-2deg);
     -ms-transform: rotate(-2deg);
     transform: rotate(-2deg);
